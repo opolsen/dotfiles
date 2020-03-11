@@ -1,0 +1,6 @@
+blakeh.jump-to-test
+eamodio.gitlens
+lucax88x.codeacejumper
+ms-vscode.vscode-typescript-tslint-plugin
+ow.vscode-subword-navigation
+tuttieee.emacs-mcx
