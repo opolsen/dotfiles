@@ -10,5 +10,5 @@ cp settings.json $USER_DIR
 for extension in $(cat extensions.txt)
 do
   echo "Installing extension $extension"
-  code --install-extension --force $extension
+  code --install-extension $extension --force
 done
